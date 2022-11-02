@@ -1,6 +1,66 @@
 {
-    "effects/AvengerOnAllyDefeated": {
+  "effects": {
+    "avenger": {
+      "onallydefeated": {
         "p2": "You steele yourself and prepare to avenge @hisorher defeat",
         "p3": "$heorshe steeles $himselforherself and prepares to avenge @hisorher defeat"
+      }
     }
+  },
+  "sexskills": {
+    "cunnilingus": [
+      {
+        "performerSkill": 100,
+        "p2": "You lick and suck on @hisorher pussy clumsily with no rhythm or skill",
+        "p3": "$heorshe licks and sucks on @hisorher pussy clumsily with no rhythm or skill"
+      },
+      {
+        "performerSkill": 300,
+        "p2": "You lick broad circles around @hisorher pussy with your tongue",
+        "p3": "$heorshe licks broad circles around @hisorher pussy with $hisorher tongue"
+      },
+      {
+        "performerSkill": 500,
+        "p2": "You tenderly lick and suck on @hisorher pussy and clit",
+        "p3": "$heorshe tenderly licks and sucks on @hisorher pussy and clit"
+      },
+      {
+        "performerSkill": 700,
+        "p2": "You rhythmically and skillfully lick and suck on @hisorher pussy and clit",
+        "p3": "$heorshe rhythmically and skillfully licks and sucks on @hisorher pussy and clit"
+      },
+      {
+        "performerSkill": 900,
+        "p2": "You artfully eat @hisorher pussy, matching @hisorher breathing perfectly while teasing, licking, and sucking with incredible dexterity.",
+        "p3": "$heorshe artfully eats @hisorher pussy, matching @hisorher breathing perfectly while teasing, licking, and sucking with incredible dexterity."
+      }
+    ],
+    "blowjob": [
+      {
+        "performerSkill": 100,
+        "p2": "Unfortunately, your blowjob skills are practically non-existent.",
+        "p3": "$heorshe apparently has no idea how to give a blowjob."
+      },
+      {
+        "performerSkill": 300,
+        "p2": "You give @himorher an uninspired and boring blowjob.",
+        "p3": "$heorshe gives @himorher an uninspired and boring blowjob."
+      },
+      {
+        "performerSkill": 500,
+        "p2": "You skillfully suck @hisorher cock",
+        "p3": "$heorshe skillfully sucks @hisorher cock"
+      },
+      {
+        "performerSkill": 700,
+        "p2": "You cover @hisorher cock in spit and blow @himorher passionately as you produce a delightful assortment of sucking and moaning sounds.",
+        "p3": "$heorshe covers @hisorher cock in spit and blow @himorher passionately as $heorshe produce a deligthful assortment of sucking and moaning sounds."
+      },
+      {
+        "performerSkill": 900,
+        "p2": "You give @himorher a sensational blowjob, managing to find all the most sensitive spots on @hisorher cock.",
+        "p3": "$heorshe gives @himorher a sensational blowjob, managing to find all the most sensitive spots on @hisorher cock."
+      }
+    ]
+  }
 }
