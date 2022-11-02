@@ -62,5 +62,13 @@
         "p3": "$heorshe gives @himorher a sensational blowjob, managing to find all the most sensitive spots on @hisorher cock."
       }
     ]
+  },
+  "skills": {
+    "oralhealing": {
+      "onhit": {
+        "p2": "You kneel before @himorher, providing soothing healing with your mouth.",
+        "p3": "$heorshe kneels before @himorher, providing soothing healing with $hisorher mouth."
+      }
+    }
   }
 }
