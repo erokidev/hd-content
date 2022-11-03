@@ -70,5 +70,13 @@
         "p3": "$heorshe kneels before @himorher, providing soothing healing with $hisorher mouth."
       }
     }
+  },
+  "quirks": {
+    "healslut": {
+      "on-heal-other": {
+        "p2": "As a novice healslut, you get pleasure from healing others.",
+        "p3": "As a novice healslut, $heorshe gets pleasure from healing others."
+      }
+    }
   }
 }
