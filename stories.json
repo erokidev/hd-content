@@ -180,32 +180,38 @@
   },
   "stat-changes": {
     "receive-pleasure": [
-      { 
+      {
+        "order": 605,
         "pleasure": -200,
         "p2": "You can hardly bear the horrible sensation.",
         "p3": "$hisorher face contorts into an expression of disgust as $heorshe shifts $hisorher body uncomfortably"
       },
-      { 
+      {
+        "order": 605,
         "pleasure": -100,
         "p2": "It feels terrible and you shift, attempting to offset the discomfort.",
         "p3": "$heorshe looks disdainful as $heorshe shifts $hisorher body to offset the discomfort"
       },
-      { 
+      {
+        "order": 605,
         "pleasure": -50,
         "p2": "You are annoyed by the discomfort.",
         "p3": "$hisorher eyebrows furrow in annoyance and discomfort"
       },
-      { 
+      {
+        "order": 605,
         "pleasure": 50,
         "p2": "You feel a slight tingle of pleasure.",
         "p3": "$heorshe blushes slightly and shifts $hisorher hips as $heorshe moans softly"
       },
-      { 
+      {
+        "order": 605,
         "pleasure": 100,
         "p2": "You feel goosebumps as a wave of pleasure spreads across your body.",
         "p3": "$heorshe blushes and pants, apparently wanting more."
       },
-      { 
+      {
+        "order": 605,
         "pleasure": 200,
         "p2": "Your mind goes blank for a moment as intense pleasure dominates your senses.",
         "p3": "$heorshe blushes and gasp-moans as $hisorher eyes roll back in ecstacy"
