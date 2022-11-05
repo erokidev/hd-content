@@ -92,6 +92,13 @@
       }
     ]
   },
+  "willingness": [
+    { 
+      "willingness": -100,
+      "p2": "You are completely revolted by the idea of ${interaction.describeActionPresentTense()}.",
+      "p3": "$heorshe is completely revolted by the idea of ${interaction.describeActionPresentTense()}."
+    }
+  ],
   "skills": {
     "oralhealing": {
       "onhit": {
