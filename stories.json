@@ -94,14 +94,76 @@
   },
   "willingness": [
     { 
-      "willingness": -100,
-      "p2": "You are completely revolted by the idea of ${interaction.describeActionPresentTense()}.",
-      "p3": "$heorshe is completely revolted by the idea of ${interaction.describeActionPresentTense()}."
+      "order": 305,
+      "willingness": -90,
+      "p2": "You are completely revolted by the idea of ${actDescription}.",
+      "p3": "$heorshe is completely revolted by the idea of ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": -70,
+      "p2": "you are repulsed by the thought of ${actDescription}.",
+      "p3": "$heorshe is repulsed by the thought of ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": -50,
+      "p2": "you are disgusted by the thought of ${actDescription}.",
+      "p3": "$heorshe is disgusted by the thought of ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": -30,
+      "p2": "you are resistant to ${actDescription}.",
+      "p3": "$heorshe is resistant to ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": -10,
+      "p2": "you are reluctant about ${actDescription}.",
+      "p3": "$heorshe is reluctant about ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": 0,
+      "p2": "You feel ambivalent about ${actDescription}.",
+      "p3": "$heorshe feels ambivalent about ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": 10,
+      "p2": "You obligingly agree to ${actDescription}.",
+      "p3": "$heorshe obligingly agrees to ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": 30,
+      "p2": "You willingly submit yourself to ${actDescription}.",
+      "p3": "$heorshe willingly submits $himselforherself to ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": 50,
+      "p2": "You eagerly anticipate ${actDescription}.",
+      "p3": "$heorshe eagerly anticipates ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": 70,
+      "p2": "You lustfully welcome ${actDescription}.",
+      "p3": "$heorshe lustfully welcomes ${actDescription}."
+    },
+    {
+      "order": 305,
+      "willingness": 90,
+      "p2": "You desperately crave ${actDescription}.",
+      "p3": "$heorshe desperately craves ${actDescription}."
     }
   ],
   "skills": {
     "oralhealing": {
       "onhit": {
+        "order": 300,
         "p2": "You kneel before @himorher, providing soothing healing with your mouth.",
         "p3": "$heorshe kneels before @himorher, providing soothing healing with $hisorher mouth."
       }
@@ -110,6 +172,7 @@
   "quirks": {
     "healslut": {
       "on-heal-other": {
+        "order": 600,
         "p2": "As a novice healslut, you get pleasure from healing others.",
         "p3": "As a novice healslut, $heorshe gets pleasure from healing others."
       }
