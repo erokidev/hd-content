@@ -10,26 +10,31 @@
   "sex": {
     "gag": [
       {
+        "order": 400,
         "gagIntensity": 0,
         "p2": "You comfortably take ${phallus} in your mouth without gagging",
         "p3": "$heorshe comfortably takes ${phallus} in $hisorher mouth without gagging"
       },
       {
+        "order": 400,
         "gagIntensity": 3,
         "p2": "You can handle ${phallus} but gag a little",
         "p3": "$heorshe can handle ${phallus} but gags a little"
       },
       {
+        "order": 400,
         "gagIntensity": 5,
         "p2": "you gag on ${phallus}",
         "p3": "$heorshe gags on ${phallus}"
       },
       {
+        "order": 400,
         "gagIntensity": 7,
         "p2": "unable to handle the size of ${phallus}, you gag hard",
         "p3": "unable to handle the size of ${phallus}, $heorshe gags hard"
       },
       {
+        "order": 400,
         "gagIntensity": 9,
         "p2": "${phallus} is way too much for you to handle and you gag uncontrollably",
         "p3": "${phallus} is way too much for $himorher to handle and $heorshe gags uncontrollably"
