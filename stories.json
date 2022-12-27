@@ -177,6 +177,13 @@
         "p2": "You kneel before @himorher, providing soothing healing with your mouth.",
         "p3": "$heorshe kneels before @himorher, providing soothing healing with $hisorher mouth."
       }
+    },
+    "healingdance": {
+      "onhit": {
+        "order": 300,
+        "p2": "You perform a relaxing and nurturing dance, healing yourself and your allies.",
+        "p3": "$heorshe performs a relaxing and nurturing dance, healing $himselforherself and $hisorher allies."
+      }
     }
   },
   "quirks": {
