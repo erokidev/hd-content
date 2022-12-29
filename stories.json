@@ -101,6 +101,28 @@
         "p3": "$heorshe gives @himorher a sensational blowjob, managing to find all the most sensitive spots on @hisorher cock."
       }
     ],
+    "penetrateanus": [
+      {
+        "performerSkill": 100,
+        "p2": "You haphazardly penetrate @hisorher ass with ${phallus} with utterly no skill or finesse",
+        "p3": "$heorshe haphazardly penetrates @hisorher ass with ${phallus} with utterly no skill or finesse"
+      },
+      {
+        "performerSkill": 400,
+        "p2": "Despite your limited skill, you penetrate @hisorher ass with ${phallus} to the best of your ability.",
+        "p3": "Despite $hisorher limited skill, $heorshe penetrate @hisorher ass with ${phallus} to the best of $hisorher ability."
+      },
+      {
+        "performerSkill": 650,
+        "p2": "You skillfully penetrate @hisorher ass with ${phallus} with an adept combination of angle and pressure",
+        "p3": "$heorshe skillfully penetrates @hisorher ass with ${phallus} with an adept combination of angle and pressure"
+      },
+      {
+        "performerSkill": 900,
+        "p2": "You artfully penetrate @hisorher ass with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle.",
+        "p3": "$heorshe artfully penetrates @hisorher ass with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
+      }
+    ],
     "penetratemouth": [
       {
         "performerSkill": 100,
@@ -121,6 +143,28 @@
         "performerSkill": 900,
         "p2": "You artfully penetrate @hisorher mouth with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle.",
         "p3": "$heorshe artfully penetrates @hisorher mouth with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
+      }
+    ],
+    "penetratevagina": [
+      {
+        "performerSkill": 100,
+        "p2": "You haphazardly penetrate @hisorher pussy with ${phallus} with utterly no skill or finesse",
+        "p3": "$heorshe haphazardly penetrates @hisorher pussy with ${phallus} with utterly no skill or finesse"
+      },
+      {
+        "performerSkill": 400,
+        "p2": "Despite your limited skill, you penetrate @hisorher pussy with ${phallus} to the best of your ability.",
+        "p3": "Despite $hisorher limited skill, $heorshe penetrate @hisorher pussy with ${phallus} to the best of $hisorher ability."
+      },
+      {
+        "performerSkill": 650,
+        "p2": "You skillfully penetrate @hisorher pussy with ${phallus} with an adept combination of angle and pressure",
+        "p3": "$heorshe skillfully penetrates @hisorher pussy with ${phallus} with an adept combination of angle and pressure"
+      },
+      {
+        "performerSkill": 900,
+        "p2": "You artfully penetrate @hisorher pussy with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle.",
+        "p3": "$heorshe artfully penetrates @hisorher pussy with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
       }
     ]
   },
