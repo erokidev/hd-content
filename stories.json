@@ -100,6 +100,28 @@
         "p2": "You give @himorher a sensational blowjob, managing to find all the most sensitive spots on @hisorher cock.",
         "p3": "$heorshe gives @himorher a sensational blowjob, managing to find all the most sensitive spots on @hisorher cock."
       }
+    ],
+    "penetrateMouth": [
+      {
+        "performerSkill": 100,
+        "p2": "You haphazardly penetrate @hisorher mouth with ${phallus} with utterly no skill or finesse",
+        "p3": "$heorshe haphazardly penetrates @hisorher mouth with ${phallus} with utterly no skill or finesse"
+      },
+      {
+        "performerSkill": 400,
+        "p2": "Despite your limited skill, you penetrate @hisorher mouth with ${phallus} to the best of your ability.",
+        "p3": "Despite $hisorher limited skill, $heorshe penetrate @hisorher mouth with ${phallus} to the best of $hisorher ability."
+      },
+      {
+        "performerSkill": 650,
+        "p2": "You skillfully penetrate @hisorher mouth with ${phallus} with an adept combination of angle and pressure",
+        "p3": "$heorshe skillfully penetrates @hisorher mouth with ${phallus} with an adept combination of angle and pressure"
+      },
+      {
+        "performerSkill": 900,
+        "p2": "You artfully penetrate @hisorher mouth with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle.",
+        "p3": "$heorshe artfully penetrates @hisorher mouth with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
+      }
     ]
   },
   "willingness": [
