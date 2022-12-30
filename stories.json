@@ -171,31 +171,31 @@
   "willingness": [
     { 
       "order": 205,
-      "willingness": -90,
+      "willingness": -0.9,
       "p2": "You are completely revolted by the idea of ${actDescription}.",
       "p3": "$heorshe is completely revolted by the idea of ${actDescription}."
     },
     {
       "order": 205,
-      "willingness": -70,
+      "willingness": -0.7,
       "p2": "you are repulsed by the thought of ${actDescription}.",
       "p3": "$heorshe is repulsed by the thought of ${actDescription}."
     },
     {
       "order": 205,
-      "willingness": -50,
+      "willingness": -0.5,
       "p2": "you are disgusted by the thought of ${actDescription}.",
       "p3": "$heorshe is disgusted by the thought of ${actDescription}."
     },
     {
       "order": 205,
-      "willingness": -30,
+      "willingness": -0.3,
       "p2": "you are resistant to ${actDescription}.",
       "p3": "$heorshe is resistant to ${actDescription}."
     },
     {
       "order": 205,
-      "willingness": -10,
+      "willingness": -0.1,
       "p2": "you are reluctant about ${actDescription}.",
       "p3": "$heorshe is reluctant about ${actDescription}."
     },
@@ -207,31 +207,31 @@
     },
     {
       "order": 205,
-      "willingness": 10,
+      "willingness": 0.1,
       "p2": "You obligingly agree to ${actDescription}.",
       "p3": "$heorshe obligingly agrees to ${actDescription}."
     },
     {
       "order": 205,
-      "willingness": 30,
+      "willingness": 0.3,
       "p2": "You willingly submit yourself to ${actDescription}.",
       "p3": "$heorshe willingly submits $himselforherself to ${actDescription}."
     },
     {
       "order": 205,
-      "willingness": 50,
+      "willingness": 0.5,
       "p2": "You eagerly anticipate ${actDescription}.",
       "p3": "$heorshe eagerly anticipates ${actDescription}."
     },
     {
       "order": 205,
-      "willingness": 70,
+      "willingness": 0.7,
       "p2": "You lustfully welcome ${actDescription}.",
       "p3": "$heorshe lustfully welcomes ${actDescription}."
     },
     {
       "order": 205,
-      "willingness": 90,
+      "willingness": 0.9,
       "p2": "You desperately crave ${actDescription}.",
       "p3": "$heorshe desperately craves ${actDescription}."
     }
