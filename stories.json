@@ -245,7 +245,7 @@
       }
     },
     "healingdance": {
-      "on-perform": {
+      "onhit": {
         "order": 300,
         "p2": "You perform a soothing and nurturing dance, healing yourself and your allies.",
         "p3": "$heorshe performs a soothing and nurturing dance, healing $himselforherself and $hisorher allies."
