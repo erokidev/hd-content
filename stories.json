@@ -250,6 +250,18 @@
         "p2": "You perform a soothing and nurturing dance, healing yourself and your allies.",
         "p3": "$heorshe performs a soothing and nurturing dance, healing $himselforherself and $hisorher allies."
       }
+    },
+    "magic-finger": {
+      "onhit": {
+        "p2": "You summon an invisible magic finger to molest @himorher.",
+        "p3": "$heorshe summons an invisible magic finger to molest @himorher."
+      }
+    },
+    "healgasm": {
+      "onhit": {
+        "p2": "As you cum, you channel the energy of your orgasm into healing @himorher.",
+        "p3": "As $heorshe cums, $heorshe channels the energy of $hisorher orgasm into healing @himorher."
+      }
     }
   },
   "quirks": {
