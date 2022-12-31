@@ -170,67 +170,67 @@
   },
   "willingness": [
     { 
-      "order": 205,
+      "order": 305,
       "willingness": -0.9,
       "p2": "You are completely revolted by the idea of ${actDescription}.",
       "p3": "$heorshe is completely revolted by the idea of ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": -0.7,
       "p2": "you are repulsed by the thought of ${actDescription}.",
       "p3": "$heorshe is repulsed by the thought of ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": -0.5,
       "p2": "you are disgusted by the thought of ${actDescription}.",
       "p3": "$heorshe is disgusted by the thought of ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": -0.3,
       "p2": "you are resistant to ${actDescription}.",
       "p3": "$heorshe is resistant to ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": -0.1,
       "p2": "you are reluctant about ${actDescription}.",
       "p3": "$heorshe is reluctant about ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": 0,
       "p2": "You feel ambivalent about ${actDescription}.",
       "p3": "$heorshe feels ambivalent about ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": 0.1,
       "p2": "You obligingly agree to ${actDescription}.",
       "p3": "$heorshe obligingly agrees to ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": 0.3,
       "p2": "You willingly submit yourself to ${actDescription}.",
       "p3": "$heorshe willingly submits $himselforherself to ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": 0.5,
       "p2": "You eagerly anticipate ${actDescription}.",
       "p3": "$heorshe eagerly anticipates ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": 0.7,
       "p2": "You lustfully welcome ${actDescription}.",
       "p3": "$heorshe lustfully welcomes ${actDescription}."
     },
     {
-      "order": 205,
+      "order": 305,
       "willingness": 0.9,
       "p2": "You desperately crave ${actDescription}.",
       "p3": "$heorshe desperately craves ${actDescription}."
@@ -253,12 +253,14 @@
     },
     "magic-finger": {
       "onhit": {
+        "order": 300,
         "p2": "You summon an invisible magic finger to molest @himorher.",
         "p3": "$heorshe summons an invisible magic finger to molest @himorher."
       }
     },
     "healgasm": {
       "onhit": {
+        "order": 300,
         "p2": "As you cum, you channel the energy of your orgasm into healing @himorher.",
         "p3": "As $heorshe cums, $heorshe channels the energy of $hisorher orgasm into healing @himorher."
       }
