@@ -103,21 +103,25 @@
     ],
     "penetrateanus": [
       {
+        "order": 300,
         "performerSkill": 100,
         "p2": "You haphazardly penetrate @hisorher ass with ${phallus} with utterly no skill or finesse",
         "p3": "$heorshe haphazardly penetrates @hisorher ass with ${phallus} with utterly no skill or finesse"
       },
       {
+        "order": 300,
         "performerSkill": 400,
         "p2": "Despite your limited skill, you penetrate @hisorher ass with ${phallus} to the best of your ability.",
         "p3": "Despite $hisorher limited skill, $heorshe penetrate @hisorher ass with ${phallus} to the best of $hisorher ability."
       },
       {
+        "order": 300,
         "performerSkill": 650,
         "p2": "You skillfully penetrate @hisorher ass with ${phallus} with an adept combination of angle and pressure",
         "p3": "$heorshe skillfully penetrates @hisorher ass with ${phallus} with an adept combination of angle and pressure"
       },
       {
+        "order": 300,
         "performerSkill": 900,
         "p2": "You artfully penetrate @hisorher ass with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle.",
         "p3": "$heorshe artfully penetrates @hisorher ass with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
@@ -125,21 +129,25 @@
     ],
     "penetratemouth": [
       {
+        "order": 300,
         "performerSkill": 100,
         "p2": "You haphazardly penetrate @hisorher mouth with ${phallus} with utterly no skill or finesse",
         "p3": "$heorshe haphazardly penetrates @hisorher mouth with ${phallus} with utterly no skill or finesse"
       },
       {
+        "order": 300,
         "performerSkill": 400,
         "p2": "Despite your limited skill, you penetrate @hisorher mouth with ${phallus} to the best of your ability.",
         "p3": "Despite $hisorher limited skill, $heorshe penetrate @hisorher mouth with ${phallus} to the best of $hisorher ability."
       },
       {
+        "order": 300,
         "performerSkill": 650,
         "p2": "You skillfully penetrate @hisorher mouth with ${phallus} with an adept combination of angle and pressure",
         "p3": "$heorshe skillfully penetrates @hisorher mouth with ${phallus} with an adept combination of angle and pressure"
       },
       {
+        "order": 300,
         "performerSkill": 900,
         "p2": "You artfully penetrate @hisorher mouth with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle.",
         "p3": "$heorshe artfully penetrates @hisorher mouth with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
@@ -147,21 +155,25 @@
     ],
     "penetratevagina": [
       {
+        "order": 300,
         "performerSkill": 100,
         "p2": "You haphazardly penetrate @hisorher pussy with ${phallus} with utterly no skill or finesse",
         "p3": "$heorshe haphazardly penetrates @hisorher pussy with ${phallus} with utterly no skill or finesse"
       },
       {
+        "order": 300,
         "performerSkill": 400,
         "p2": "Despite your limited skill, you penetrate @hisorher pussy with ${phallus} to the best of your ability.",
         "p3": "Despite $hisorher limited skill, $heorshe penetrate @hisorher pussy with ${phallus} to the best of $hisorher ability."
       },
       {
+        "order": 300,
         "performerSkill": 650,
         "p2": "You skillfully penetrate @hisorher pussy with ${phallus} with an adept combination of angle and pressure",
         "p3": "$heorshe skillfully penetrates @hisorher pussy with ${phallus} with an adept combination of angle and pressure"
       },
       {
+        "order": 300,
         "performerSkill": 900,
         "p2": "You artfully penetrate @hisorher pussy with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle.",
         "p3": "$heorshe artfully penetrates @hisorher pussy with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
