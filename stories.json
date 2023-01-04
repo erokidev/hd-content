@@ -281,6 +281,13 @@
         "p2": "As you cum, you channel the energy of your orgasm into healing @himorher.",
         "p3": "As $heorshe cums, $heorshe channels the energy of $hisorher orgasm into healing @himorher."
       }
+    },
+    "healing-angel": {
+      "oncast": {
+        "order": 295,
+        "p2": "A powerful orgasm rolls across your body, causing you to unfurl your wings and transform into an angelic avatar of healing that radiates a warm healing aura.",
+        "p3": "A powerful orgasm rolls across $hisorher body, causing $himorher to unfurl $hisorher wings and transform into an angelic avatar of healing that radiates a warm healing aura."
+      }
     }
   },
   "quirks": {
