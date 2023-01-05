@@ -183,6 +183,26 @@
         "p2": "You artfully penetrate @hisorher pussy with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle.",
         "p3": "$heorshe artfully penetrates @hisorher pussy with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
       }
+    ],
+    "strip-down": [
+      {
+        "order": 300,
+        "performerSkill": 100,
+        "p2": "You haphazardly tear off @hisorher ${clothing} with utterly no skill or finesse",
+        "p3": "$heorshe haphazardly tears off @hisorher ${clothing} with utterly no skill or finesse"
+      },
+      {
+        "order": 300,
+        "performerSkill": 500,
+        "p2": "You skillfully remove @hisorher ${clothing} with a fluid motion",
+        "p3": "$heorshe skillfully removes @hisorher ${clothing} with a fluid motion"
+      },
+      {
+        "order": 300,
+        "performerSkill": 900,
+        "p2": "You artfully remove @hisorher ${clothing} with a graceful flair",
+        "p3": "$heorshe artfully removes @hisorher ${clothing} with a graceful flair"
+      }
     ]
   },
   "willingness": [
