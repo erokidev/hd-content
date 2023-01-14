@@ -203,6 +203,26 @@
         "p2": "You artfully remove @hisorher ${clothing} with a graceful flair",
         "p3": "$heorshe artfully removes @hisorher ${clothing} with a graceful flair"
       }
+    ],
+    "undress-other": [
+      {
+        "order": 300,
+        "performerSkill": 100,
+        "p2": "You haphazardly undress @himorher with utterly no skill or finesse",
+        "p3": "$heorshe haphazardly undress @himorher with utterly no skill or finesse"
+      },
+      {
+        "order": 300,
+        "performerSkill": 500,
+        "p2": "You skillfully remove @hisorher clothing with a fluid motion",
+        "p3": "$heorshe skillfully removes @hisorher clothing with a fluid motion"
+      },
+      {
+        "order": 300,
+        "performerSkill": 900,
+        "p2": "You artfully remove @hisorher clothing with a graceful flair",
+        "p3": "$heorshe artfully removes @hisorher clothing with a graceful flair"
+      }
     ]
   },
   "willingness": [
