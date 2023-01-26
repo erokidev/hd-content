@@ -378,5 +378,55 @@
         "p3": "$heorshe blushes and gasp-moans as $hisorher eyes roll back in ecstacy"
       }
     ]
-  }
+  },
+  "pain": [
+    {
+      "order": 600,
+      "pain": 0,
+      "p2": "You barely notice the slight pain",
+      "p3": "$heorshe barely notices the slight pain"
+    },
+    {
+      "order": 600,
+      "pain": 0.3,
+      "p2": "You twitch from the slight pain",
+      "p3": "$heorshe twitches from the slight pain"
+    },
+    {
+      "order": 600,
+      "pain": 0.7,
+      "p2": "You wince slightly in pain",
+      "p3": "$heorshe winces slightly in pain"
+    },
+    {
+      "order": 600,
+      "pain": 1.2,
+      "p2": "You wince in pain",
+      "p3": "$heorshe winces in pain"
+    },
+    {
+      "order": 600,
+      "pain": 1.7,
+      "p2": "Your clench your teeth in pain",
+      "p3": "$heorshe clenches $hisorher teeth in pain"
+    },
+    {
+      "order": 600,
+      "pain": 2.2,
+      "p2": "You yelp as your face contorts involuntarily to handle the pain",
+      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to handle the pain"
+    },
+    {
+      "order": 600,
+      "pain": 2.7,
+      "p2": "You yelp as your face contorts involuntarily to handle the intense pain",
+      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to handle the intense pain"
+    },
+    {
+      "order": 600,
+      "pain": 3.2,
+      "p2": "You yelp as your face contorts involuntarily to handle the extreme pain",
+      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to handle the extreme pain"
+    }
+  ]
 }
