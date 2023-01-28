@@ -428,5 +428,140 @@
       "p2": "You yelp as your face contorts involuntarily to handle the extreme pain",
       "p3": "$heorshe yelps as $hisorher face contorts involuntarily to handle the extreme pain"
     }
+  ],
+  "penetration": {
+    "too-shallow-from-player": {
+      "order": 605,
+      "p2": "You wonder if it's going to go in any deeper",
+      "p3": "$heorshe looks a little bored and wonders if you're going to stick ${phallus} in any deeper"
+    },
+    "too-shallow-from-npc": {
+      "order": 605,
+      "p2": "You wonder if it's going to go in any deeper",
+      "p3": "$heorshe looks a little bored and wonders if @heorshe is going to stick ${phallus} in any deeper"
+    },
+    "too-deep": {
+      "order": 605,
+      "p2": "You're a little worried about taking ${phallus} so deep inside your ${bodyPartName}",
+      "p3": "$heorshe looks a little worried about taking ${phallus} so deep inside $hisorher ${bodyPartName}"
+    },
+    "too-deep-too-fast": [
+      {
+        "order": 605,
+        "speed": 6,
+        "p2": "you adjusts youself, trying to accomodate ${phallus} going so deep and fast",
+        "p3": "$heorshe adjusts $himselforherself, trying to accomodate ${phallus} going so deep and fast"
+      },
+      {
+        "order": 605,
+        "speed": 7,
+        "p2": "you squirm a little, trying to handle the size of ${phallus} while getting fucked so fast",
+        "p3": "$heorshe squirms a little, trying to handle the size of ${phallus} while getting fucked so fast"
+      },
+      {
+        "order": 605,
+        "speed": 8,
+        "p2": "you reel from getting fucked by ${phallus} so deeply and quickly",
+        "p3": "$heorshe reels from getting fucked by ${phallus} so deeply and quickly"
+      },
+      {
+        "order": 605,
+        "speed": 9,
+        "p2": "you reel from getting mercilessly fucked by ${phallus}",
+        "p3": "$heorshe reels from getting mercilessly fucked by ${phallus}"
+      },
+      {
+        "order": 605,
+        "speed": 10,
+        "p2": "you reel from getting brutally fucked by ${phallus}",
+        "p3": "$heorshe reels from getting brutally fucked by ${phallus}"
+      }
+    ],
+    "not-moving": {
+      "order": 605,
+      "p2": "you cock your head slightly, wondering why ${phallus} isn't moving",
+      "p3": "$heorshe cocks $hisorher head slightly, wondering why ${phallus} isn't moving"
+    },
+    "too-slow": {
+      "order": 605,
+      "p2": "you cock your head slightly, wondering why ${phallus} is moving so slow",
+      "p3": "$heorshe cocks $hisorher head slightly, wondering why ${phallus} is moving so slow"
+    },
+    "too-fast": [
+      {
+        "order": 605,
+        "speed": 7,
+        "p2": "you squirm a little, trying to compensate for ${phallus} moving in and out so fast",
+        "p3": "$heorshe squirms a little, trying to compensate for ${phallus} moving in and out so fast"
+      },
+      {
+        "order": 605,
+        "speed": 8.5,
+        "p2": "you reel from getting fucked by ${phallus} so quickly",
+        "p3": "$heorshe reels from getting fucked by ${phallus} so quickly"
+      },
+      {
+        "order": 605,
+        "speed": 9.5,
+        "p2": "you reel from getting railed by ${phallus} like a jack-hammer",
+        "p3": "$heorshe reels from getting railed by ${phallus} like a jack-hammer"
+      }
+    ]
+  },
+  "lubrication": [
+    {
+      "order": 296,
+      "lubrication": 0,
+      "p2": "With your completely dry ${bodyPartName}, it's going to be painful",
+      "p3": "With $hisorher completely dry ${bodyPartName}, it's going to be painful"
+    },
+    {
+      "order": 296,
+      "lubrication": 0.1,
+      "p2": "With such a dry ${bodyPartName}, it's going to be painful for you",
+      "p3": "With such a dry ${bodyPartName}, it's going to be painful for $himorher"
+    },
+    {
+      "order": 296,
+      "lubrication": 0.25,
+      "p2": "With such an under-lubricated ${bodyPartName}, it's going to be unpleasant for you",
+      "p3": "With such an under-lubricated ${bodyPartName}, it's going to be unpleasant for $himorher"
+    },
+    {
+      "order": 296,
+      "lubrication": 0.4,
+      "p2": "With only a slightly lubricated ${bodyPartName}, it probably won't feel very good for you",
+      "p3": "With only a slightly lubricated ${bodyPartName}, it probably won't feel very good for $himorher"
+    },
+    {
+      "order": 296,
+      "lubrication": 0.6,
+      "p2": "With such a well-lubricated ${bodyPartName}, your pleasure is amplified",
+      "p3": "With such a well-lubricated ${bodyPartName}, $hisorher pleasure is amplified"
+    },
+    {
+      "order": 296,
+      "lubrication": 0.7,
+      "p2": "With an amply-lubricated ${bodyPartName}, your pleasure is slightly amplified",
+      "p3": "With an amply-lubricated ${bodyPartName}, $hisorher pleasure is slightly amplified"
+    },
+    {
+      "order": 296,
+      "lubrication": 0.8,
+      "p2": "With a completely lubricated ${bodyPartName}, your pleasure is amplified",
+      "p3": "With a completely lubricated ${bodyPartName}, $hisorher pleasure is amplified"
+    },
+    {
+      "order": 296,
+      "lubrication": 0.9,
+      "p2": "With such an over-lubricated ${bodyPartName}, your pleasure is amplified",
+      "p3": "With such an over-lubricated ${bodyPartName}, $hisorher pleasure is amplified"
+    },
+    {
+      "order": 296,
+      "lubrication": 1,
+      "p2": "With such an over-lubricated ${bodyPartName}, your pleasure is greatly amplified",
+      "p3": "With such an over-lubricated ${bodyPartName}, $hisorher pleasure is greatly amplified"
+    }
   ]
 }
