@@ -413,20 +413,20 @@
     {
       "order": 600,
       "pain": 2.2,
-      "p2": "You yelp as your face contorts involuntarily to handle the pain",
-      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to handle the pain"
+      "p2": "You yelp as your face contorts involuntarily to cope with the pain",
+      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to cope with the pain"
     },
     {
       "order": 600,
       "pain": 2.7,
-      "p2": "You yelp as your face contorts involuntarily to handle the intense pain",
-      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to handle the intense pain"
+      "p2": "You yelp as your face contorts involuntarily to cope with the intense pain",
+      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to cope with the intense pain"
     },
     {
       "order": 600,
       "pain": 3.2,
-      "p2": "You yelp as your face contorts involuntarily to handle the extreme pain",
-      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to handle the extreme pain"
+      "p2": "You yelp as your face contorts involuntarily to cope with the extreme pain",
+      "p3": "$heorshe yelps as $hisorher face contorts involuntarily to cope with the extreme pain"
     }
   ],
   "penetration": {
