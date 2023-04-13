@@ -328,6 +328,13 @@
         "p2": "As the powerful orgasm rolls across your body, you unfurl your wings and takes flight, transforming into an angelic avatar of healing that radiates a warm healing aura.",
         "p3": "As the powerful orgasm rolls across $hisorher body, $himorher unfurls $hisorher wings and takes flight, transforming into an angelic avatar of healing that radiates a warm healing aura."
       }
+    },
+    "fuck-mouth": {
+      "onhit": {
+        "order": 295,
+        "p2": "You seize @hisorher head and shove your cock into @hisorher mouth.",
+        "p3": "$heorshe seizes @hisorher head and shove $hisorher cock into @hisorher mouth."
+      }
     }
   },
   "quirks": {
