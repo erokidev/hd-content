@@ -44,6 +44,26 @@
         "p2": "${phallus} is way too much for you to handle and you gag uncontrollably",
         "p3": "${phallus} is way too much for $himorher to handle and $heorshe gags uncontrollably"
       }
+    ],
+    "gag-reflex-managed": [
+      {
+        "order": 400,
+        "gagReflexManaged": 0,
+        "p2": "You barely manage to take ${phallus} into your mouth without gagging",
+        "p3": "$heorshe barely manages to take ${phallus} in $hisorher mouth without gagging"
+      },
+      {
+        "order": 400,
+        "gagReflexManaged": 3,
+        "p2": "You takes ${phallus} into your mouth without gagging",
+        "p3": "$heorshe takes ${phallus} into $hisorher mouth without gagging"
+      },
+      {
+        "order": 400,
+        "gagReflexManaged": 6,
+        "p2": "You comfortably take ${phallus} into your mouth without gagging",
+        "p3": "$heorshe comfortably takes ${phallus} into $hisorher mouth without gagging"
+      }
     ]
   },
   "sexskills": {
