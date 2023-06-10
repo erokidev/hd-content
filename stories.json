@@ -204,6 +204,38 @@
         "p3": "$heorshe artfully penetrates @hisorher pussy with ${phallus}, playfully exploring @hisorher tongue, while finding the perfect combination of rhythm and angle."
       }
     ],
+    "massage": [
+      {
+        "order": 500,
+        "performerSkill": 100,
+        "p2": "Your massage technique is clumsy and lacks any notable skill or training.",
+        "p3": "$hisorher massage technique is clumsy and lacks any notable skill or training."
+      },
+      {
+        "order": 500,
+        "performerSkill": 300,
+        "p2": "You give @himorher an unremarkably mediocre massage.",
+        "p3": "$heorshe gives @himorher an unremarkably mediocre massage."
+      },
+      {
+        "order": 500,
+        "performerSkill": 500,
+        "p2": "You skillfully massage @hisorher body",
+        "p3": "$heorshe skillfully massages @hisorher body"
+      },
+      {
+        "order": 500,
+        "performerSkill": 700,
+        "p2": "You run your hands across @hisorher body, pushing, kneeding and squeezing all the right places.",
+        "p3": "$heorshe run $hisorher hands across @hisorher body, pushing, kneeding and squeezing all the right places."
+      },
+      {
+        "order": 500,
+        "performerSkill": 900,
+        "p2": "Your adept hands glide hypnotically across @himorher body, delivering a masterful massage.",
+        "p3": "$hisorher adept hands glide hypnotically across @himorher body, delivering a masterful massage."
+      }
+    ],
     "strip-down": [
       {
         "order": 300,
@@ -314,6 +346,13 @@
     }
   ],
   "skills": {
+    "eroticmassage": {
+      "onhit" : {
+        "order": 295,
+        "p2": "You erotically massage @hisorher body.",
+        "p3": "$heorshe erotically massages @hisorher body."
+      }
+    },
     "oralhealing": {
       "onhit": {
         "order": 295,
