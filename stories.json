@@ -346,21 +346,21 @@
     }
   ],
   "skills": {
-    "eroticmassage": {
+    "erotic-massage": {
       "onhit" : {
         "order": 295,
         "p2": "You erotically massage @hisorher body.",
         "p3": "$heorshe erotically massages @hisorher body."
       }
     },
-    "oralhealing": {
+    "oral-healing": {
       "onhit": {
         "order": 295,
         "p2": "You kneel before @himorher, providing soothing healing with your mouth.",
         "p3": "$heorshe kneels before @himorher, providing soothing healing with $hisorher mouth."
       }
     },
-    "healingdance": {
+    "healing-dance": {
       "onhit": {
         "order": 295,
         "p2": "You perform a soothing and nurturing dance, healing yourself and your allies.",
@@ -393,6 +393,13 @@
         "order": 295,
         "p2": "You seize @hisorher head and shove your cock into @hisorher mouth.",
         "p3": "$heorshe seizes @hisorher head and shoves $hisorher cock into @hisorher mouth."
+      }
+    },
+    "sexy-dance": {
+      "on-hit": {
+        "order": 295,
+        "p2": "You perform a sexy dance for @himorher.",
+        "p3": "$heorshe performs a sexy dance for @himorher."
       }
     }
   },
