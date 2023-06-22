@@ -401,6 +401,13 @@
         "p2": "You perform a sexy dance for @himorher.",
         "p3": "$heorshe performs a sexy dance for @himorher."
       }
+    },
+    "taunt": {
+      "on-hit": {
+        "order": 295,
+        "p2": "You taunt @himorher with lewd gestures and threatening insults.",
+        "p3": "$heorshe taunts @himorher with lewd gestures and threatening insults."
+      }
     }
   },
   "quirks": {
