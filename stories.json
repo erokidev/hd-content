@@ -347,35 +347,35 @@
   ],
   "skills": {
     "erotic-massage": {
-      "onhit" : {
+      "on-hit" : {
         "order": 295,
         "p2": "You erotically massage @hisorher body.",
         "p3": "$heorshe erotically massages @hisorher body."
       }
     },
     "oral-healing": {
-      "onhit": {
+      "on-hit": {
         "order": 295,
         "p2": "You kneel before @himorher, providing soothing healing with your mouth.",
         "p3": "$heorshe kneels before @himorher, providing soothing healing with $hisorher mouth."
       }
     },
     "healing-dance": {
-      "onhit": {
+      "on-hit": {
         "order": 295,
         "p2": "You perform a soothing and nurturing dance, healing yourself and your allies.",
         "p3": "$heorshe performs a soothing and nurturing dance, healing $himselforherself and $hisorher allies."
       }
     },
     "magic-finger": {
-      "onhit": {
+      "on-hit": {
         "order": 295,
         "p2": "You summon an invisible magic finger to molest @himorher.",
         "p3": "$heorshe summons an invisible magic finger to molest @himorher."
       }
     },
     "healgasm": {
-      "onhit": {
+      "on-hit": {
         "order": 295,
         "p2": "As you cum, you channel the energy of your orgasm into healing @himorher.",
         "p3": "As $heorshe cums, $heorshe channels the energy of $hisorher orgasm into healing @himorher."
@@ -389,7 +389,7 @@
       }
     },
     "fuck-mouth": {
-      "onhit": {
+      "on-hit": {
         "order": 295,
         "p2": "You seize @hisorher head and shove your cock into @hisorher mouth.",
         "p3": "$heorshe seizes @hisorher head and shoves $hisorher cock into @hisorher mouth."
